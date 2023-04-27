@@ -1,0 +1,24 @@
+{
+  "name": "chat-elyas",
+  "version": "1.0.0",
+  "description": "Chat Cours Node JS ",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "Chat",
+    "de",
+    "Elyas"
+  ],
+  "author": "Elyas RAJJAF",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
